@@ -1,5 +1,6 @@
 # R01
 Argo data type
+
 Terms describing the type of data contained in an Argo netCDF file.
 
 This vocabulary is available from:
